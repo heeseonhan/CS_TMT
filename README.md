@@ -1,12 +1,7 @@
-#1)	
-1. 잠재 : 교차기기, 모바일
-2. 획득
-3. 행동 : 
-신규방문, 재방문, 방문빈도, 최근 구매일,
-세션 거래가 있는 세션, 거래가 없는 세션
-4. 전환 가능성
-
-
+#Bidirectional Encoder Representations from Transformers
 
 ##2) DataFileCSVLoad
 DataFileCSVLoad
+
+
+#pip install transformers
